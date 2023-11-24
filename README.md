@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Running CyPress
+Do ```npm install```
+Run the app using ```npm run dev```
+Install CyPress by doing ```npm install cypress --save-dev```
+Open CyPress (make sure the app is already running) by doing ```npx open cypress```
+
 ## Getting Started
 
 First, run the development server:
